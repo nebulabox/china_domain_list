@@ -1983,7 +1983,6 @@ ipchaxun.com
 263y.com
 263zw.com
 264g.com
-#265.com
 26595.com
 265dh.com
 265g.com
@@ -2105,7 +2104,6 @@ ipchaxun.com
 2liangli.com
 2m2j.com
 2manhua.com
-#2mdn.net
 2mh.cc
 2mjob.com
 2mm.tv
@@ -11957,7 +11955,6 @@ csgc365.com
 csgm168.com
 cshxdc.com
 cshzw.com
-#csi.gstatic.com
 csk6.net
 cskaoyan.com
 cskxjk.com
@@ -13237,7 +13234,6 @@ dky.cc
 dl-mec.com
 dl-origin.ubnt.com
 dl.delivery.mp.microsoft.com
-#dl.google.com
 dl.ubnt.com
 dl1234.com
 dl321.net
@@ -13551,7 +13547,6 @@ doubanio.com
 doubanz.com
 doubaojf.com
 doubean.com
-#doubleclick.net
 doubleliu.com
 doubozhibo.com
 doudang.com
@@ -15565,8 +15560,6 @@ fondcool.com
 fongmong.com
 font5.com
 fontke.com
-#fonts.googleapis.com
-#fonts.gstatic.com
 foodgx.com
 foodjx.com
 foodmate.net
@@ -16673,15 +16666,9 @@ goodshishang.com
 goodwan.net
 goodwatch24.com
 googie.hk
-#google-analytics.com
 google-update.net
-#googleadservices.com
-#googleanalytics.com
 googlestatics1.com
-#googlesyndication.com
 googlesysndication.com
-#googletagmanager.com
-#googletagservices.com
 googlo.me
 goojer.com
 goolink.org
@@ -24715,7 +24702,6 @@ mediaclub.cc
 mediapower.mobi
 mediaqx.com
 mediav.com
-#mediavisor.doubleclick.com
 mediaxinan.com
 meditic.com
 medky.net
@@ -35438,7 +35424,6 @@ wwuye.com
 www-cdn.dell.com
 www-ssl.intel.com
 www.agoda.com
-#www.bing.com
 www.cg
 www.dell-brand.com
 www.dell.com
