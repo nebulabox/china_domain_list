@@ -1,6 +1,7 @@
 ; Firefox Switchy Omega. Switch format.
 [SwitchyOmega Conditions]
 *.cn
+*.ipchaxun.com
 *.0-6.com
 *.0-gold.net
 *.00.net
